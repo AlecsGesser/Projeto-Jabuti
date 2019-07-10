@@ -3,7 +3,7 @@ Este [artigo](https://drive.google.com/open?id=1i2aPxa2fFgz0EKA9zRqdPedRDCq2YIKR
 
 
 ## Como usar
-Após instalar a arquivo .img no Raspberry Pi, prossigar para os passos abaixo:
+Após instalar a arquivo .img no Raspberry Pi e clonar o GitHub em questão, prossigar para os passos abaixo:
 
 Arquivo img: [rpi_image]()  'Pending'
 1. Siga o [tutorial](https://github.com/MrYsLab/s2-pi) para instalação S2-PI.
