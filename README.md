@@ -6,8 +6,8 @@ Este [artigo](https://drive.google.com/open?id=1i2aPxa2fFgz0EKA9zRqdPedRDCq2YIKR
 Após instalar a arquivo .img no Raspberry Pi, prossigar para os passos abaixo:
 
 Arquivo img: [rpi_image]()  'Pending'
-
-1. Primeiramente entre na pasta "Desktop": <br /> 
+1. Siga o [tutorial](https://github.com/MrYsLab/s2-pi) para isntalação S2-PI.
+2. Após, entre na pasta "Desktop": <br /> 
     ```bash
     cd /home/pi/Desktop
     ```
