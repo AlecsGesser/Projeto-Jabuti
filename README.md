@@ -1,8 +1,6 @@
 # Projeto Jabuti
-
-<p style='text-align: justify;'>
 Este [artigo](https://drive.google.com/open?id=1i2aPxa2fFgz0EKA9zRqdPedRDCq2YIKR) apresenta o workflow de desenvolvimento do Projeto Jabuti, apresentado à disciplina de Sistemas Ubíquos, do curso de graduaçãoem Engenharia de Computação da Universidade Federal de Santa Catarina.Apresentaremos   as   etapas   de   desenvolvimento,   bem   como   uma   brevedocumentação do que foi realizado e como utilizar o sistema.
-</p>
+
 
 ## Como usar
 Após instalar a arquivo .img no Raspberry Pi, prossigar para os passos abaixo:
